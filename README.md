@@ -1,4 +1,4 @@
-# Cantonese LLM Fine-Tuning: Qwen2.5-3B-Instruct
+# Fine-Tuning: Qwen2.5-3B-Instruct for Cantonese Language ability
 
 ## Overview
 
