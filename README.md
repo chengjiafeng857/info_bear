@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains the code for fine-tuning the `Qwen/Qwen2.5-3B-Instruct` language model for improved Cantonese instruction-following capabilities. The project utilizes the `hon9kon9ize/yue-alpaca` dataset and leverages the Unsloth library for efficient LoRA-based fine-tuning.
+This repository contains the code for fine-tuning the `Qwen/Qwen2.5-3B-Instruct` language model for improved Cantonese language instruction-following capabilities. The project utilizes the `hon9kon9ize/yue-alpaca` dataset and leverages the Unsloth library for efficient LoRA-based fine-tuning.
 
 ## Features
 
-* **Cantonese Focus:** Fine-tuned specifically for understanding and generating responses based on Cantonese instructions.
+* **Cantonese Focus:** Fine-tuned specifically for understanding and generating responses based on Cantonese language instructions.
 * **Efficient Fine-Tuning:** Uses Unsloth and LoRA with 4-bit quantization for faster training and reduced memory usage, making it suitable for platforms like Google Colab.
 * **Evaluation Included:** Provides a notebook (`Eval.ipynb`) for comparing the fine-tuned model against the original base model using human evaluation.
 
