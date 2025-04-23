@@ -1,5 +1,6 @@
 # Fine-Tuning: Qwen2.5-3B-Instruct for Cantonese Language ability
 ## The Technical report is in the root folder of this repo
+## Presentation video: https://youtu.be/DMfvuNL4ffM
 
 ## Overview
 
